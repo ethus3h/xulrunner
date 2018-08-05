@@ -1,0 +1,1764 @@
+  File: ./confvars.sh\
+
+  Size: 557       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069099     Links: 1\
+
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-02-09 19:40:21.933362879 -0500\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.904072234 -0500\
+
+ Birth: -\
+
+
+
+  File: ./moz.build\
+
+  Size: 534       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069135     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-07-07 00:20:23.328076695 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.994075121 -0500\
+
+ Birth: -\
+
+
+
+  File: ./build.mk\
+
+  Size: 778       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069089     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-02-09 19:40:21.933362879 -0500\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./CONTRIBUTING.md\
+
+  Size: 356       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 378420      Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-02-09 19:40:21.923362835 -0500\
+
+Modify: 2017-07-10 04:01:11.530838368 -0400\
+
+Change: 2017-07-10 04:01:11.530838368 -0400\
+
+ Birth: -\
+
+
+
+  File: ./README.xulrunner\
+
+  Size: 578       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069073     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-02-09 19:40:21.923362835 -0500\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.884071593 -0500\
+
+ Birth: -\
+
+
+
+  File: ./tools\
+
+  Size: 3         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069071     Links: 3\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.014075762 -0500\
+
+ Birth: -\
+
+
+
+  File: ./tools/redit\
+
+  Size: 5         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069072     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.014075762 -0500\
+
+ Birth: -\
+
+
+
+  File: ./tools/redit/redit.cpp\
+
+  Size: 4877      	Blocks: 5          IO Block: 5120   regular file\
+
+Device: 32h/50d	Inode: 1069141     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./tools/redit/moz.build\
+
+  Size: 570       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069142     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./tools/redit/Makefile.in\
+
+  Size: 274       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069143     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./CODE_OF_CONDUCT.md\
+
+  Size: 3229      	Blocks: 4          IO Block: 3584   regular file\
+
+Device: 32h/50d	Inode: 378419      Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-02-09 19:40:21.923362835 -0500\
+
+Modify: 2017-07-10 04:01:11.530838368 -0400\
+
+Change: 2017-07-10 04:01:11.530838368 -0400\
+
+ Birth: -\
+
+
+
+  File: ./installer\
+
+  Size: 11        	Blocks: 3          IO Block: 1024   directory\
+
+Device: 32h/50d	Inode: 1069067     Links: 3\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.014075762 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/Makefile.in\
+
+  Size: 4623      	Blocks: 5          IO Block: 5120   regular file\
+
+Device: 32h/50d	Inode: 1069123     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.825079029 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.984074800 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/moz.build\
+
+  Size: 308       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069118     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.835079106 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.974074479 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/mozilla-nspr.pc.in\
+
+  Size: 192       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069121     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.835079106 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.984074800 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/debian\
+
+  Size: 11        	Blocks: 3          IO Block: 1024   directory\
+
+Device: 32h/50d	Inode: 1069068     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.014075762 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/debian/compat\
+
+  Size: 2         	Blocks: 1          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069132     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.994075121 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/debian/icon_base64\
+
+  Size: 2041      	Blocks: 5          IO Block: 2048   regular file\
+
+Device: 32h/50d	Inode: 1069131     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.994075121 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/debian/menu\
+
+  Size: 117       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069125     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.984074800 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/debian/postinst.in\
+
+  Size: 946       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069130     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.994075121 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/debian/prerm.in\
+
+  Size: 365       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069126     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.984074800 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/debian/changelog.in\
+
+  Size: 328       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069127     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.984074800 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/debian/xulrunner.links.in\
+
+  Size: 63        	Blocks: 1          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069133     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.994075121 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/debian/xulrunner.service.in\
+
+  Size: 97        	Blocks: 1          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069128     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.994075121 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/debian/control\
+
+  Size: 2558      	Blocks: 5          IO Block: 2560   regular file\
+
+Device: 32h/50d	Inode: 1069129     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.994075121 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/libxul-embedding.pc.in\
+
+  Size: 299       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069119     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.825079029 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.974074479 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/mozilla-js.pc.in\
+
+  Size: 255       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069122     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.835079106 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.984074800 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/mozilla-nss.pc.in\
+
+  Size: 265       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069117     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.835079106 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.974074479 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/libxul.pc.in\
+
+  Size: 283       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069120     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.825079029 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.974074479 -0500\
+
+ Birth: -\
+
+
+
+  File: ./installer/mozilla-plugin.pc.in\
+
+  Size: 177       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069124     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.835079106 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.984074800 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples\
+
+  Size: 4         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069059     Links: 3\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple\
+
+  Size: 10        	Blocks: 3          IO Block: 1024   directory\
+
+Device: 32h/50d	Inode: 1069060     Links: 6\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/moz.build\
+
+  Size: 600       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069102     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.954073838 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/components\
+
+  Size: 5         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069062     Links: 4\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/components/public\
+
+  Size: 4         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069066     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.014075762 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/components/public/moz.build\
+
+  Size: 400       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069111     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:54.295816717 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.974074479 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/components/public/nsISimpleTest.idl\
+
+  Size: 489       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069112     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:54.295816717 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.974074479 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/components/src\
+
+  Size: 6         	Blocks: 3          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069065     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.014075762 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/components/src/SimpleTest.cpp\
+
+  Size: 1324      	Blocks: 3          IO Block: 1536   regular file\
+
+Device: 32h/50d	Inode: 1069115     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:54.295816717 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.974074479 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/components/src/moz.build\
+
+  Size: 527       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069114     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:54.295816717 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.974074479 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/components/src/SimpleTest.manifest\
+
+  Size: 151       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069116     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:54.295816717 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.974074479 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/components/src/SimpleTest.js\
+
+  Size: 822       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069113     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:54.295816717 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.974074479 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/components/moz.build\
+
+  Size: 334       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069105     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:34.345665986 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.964074160 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/jar.mn\
+
+  Size: 457       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069101     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.904072234 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/simple-prefs.js\
+
+  Size: 335       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069104     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.964074160 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/content\
+
+  Size: 5         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069063     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.014075762 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/content/contents.rdf\
+
+  Size: 0         	Blocks: 1          IO Block: 512    regular empty file\
+
+Device: 32h/50d	Inode: 1069108     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:34.345665986 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.964074160 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/content/simple.xul\
+
+  Size: 739       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069109     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:34.345665986 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.964074160 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/content/simple.js\
+
+  Size: 624       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069107     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:34.345665986 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.964074160 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/icons\
+
+  Size: 3         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069061     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/icons/simple.ico\
+
+  Size: 29310     	Blocks: 15         IO Block: 29696  regular file\
+
+Device: 32h/50d	Inode: 1069110     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:34.345665986 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.964074160 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/application.ini\
+
+  Size: 1391      	Blocks: 3          IO Block: 1536   regular file\
+
+Device: 32h/50d	Inode: 1069103     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.964074160 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/locale\
+
+  Size: 3         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069064     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.014075762 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/simple/locale/simple.dtd\
+
+  Size: 329       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069106     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:34.345665986 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.964074160 -0500\
+
+ Birth: -\
+
+
+
+  File: ./examples/moz.build\
+
+  Size: 327       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069100     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.825079029 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.904072234 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app.mozbuild\
+
+  Size: 354       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069088     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-07-07 00:20:23.328076695 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./README.md\
+
+  Size: 309       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069702     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-07-07 00:20:23.328076695 -0400\
+
+Modify: 2017-01-06 19:36:55.347336320 -0500\
+
+Change: 2017-01-06 19:36:55.347336320 -0500\
+
+ Birth: -\
+
+
+
+  File: ./.git\
+
+  Size: 70        	Blocks: 1          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1058330     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.157007346 -0400\
+
+Modify: 2017-01-21 23:54:09.808162187 -0500\
+
+Change: 2017-01-21 23:54:09.808162187 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app\
+
+  Size: 15        	Blocks: 3          IO Block: 1024   directory\
+
+Device: 32h/50d	Inode: 1069050     Links: 3\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/moz.build\
+
+  Size: 1681      	Blocks: 3          IO Block: 2048   regular file\
+
+Device: 32h/50d	Inode: 1069074     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.815078955 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.884071593 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/macbuild\
+
+  Size: 4         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069051     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/macbuild/Info.plist.in\
+
+  Size: 892       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069087     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/macbuild/InfoPlist.strings\
+
+  Size: 280       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069086     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/install_app.py\
+
+  Size: 8115      	Blocks: 6          IO Block: 8192   regular file\
+
+Device: 32h/50d	Inode: 1069076     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.815078955 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.884071593 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/Makefile.in\
+
+  Size: 2645      	Blocks: 4          IO Block: 3072   regular file\
+
+Device: 32h/50d	Inode: 1069083     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.815078955 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/document.ico\
+
+  Size: 22486     	Blocks: 25         IO Block: 22528  regular file\
+
+Device: 32h/50d	Inode: 1069079     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.815078955 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.884071593 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/xulrunner.ico\
+
+  Size: 22486     	Blocks: 28         IO Block: 22528  regular file\
+
+Device: 32h/50d	Inode: 1069082     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.825079029 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/nsXULRunnerApp.cpp\
+
+  Size: 7346      	Blocks: 7          IO Block: 7680   regular file\
+
+Device: 32h/50d	Inode: 1069085     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.815078955 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/default32.png\
+
+  Size: 2084      	Blocks: 6          IO Block: 2560   regular file\
+
+Device: 32h/50d	Inode: 1069075     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.815078955 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.884071593 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/default16.png\
+
+  Size: 744       	Blocks: 3          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069080     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.815078955 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.884071593 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/default48.png\
+
+  Size: 3846      	Blocks: 9          IO Block: 4096   regular file\
+
+Device: 32h/50d	Inode: 1069077     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.815078955 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.884071593 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/splash.rc\
+
+  Size: 638       	Blocks: 2          IO Block: 1024   regular file\
+
+Device: 32h/50d	Inode: 1069078     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.815078955 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.884071593 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/xulrunner.js\
+
+  Size: 1191      	Blocks: 3          IO Block: 1536   regular file\
+
+Device: 32h/50d	Inode: 1069084     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.825079029 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./app/xulrunner.exe.manifest\
+
+  Size: 1485      	Blocks: 3          IO Block: 1536   regular file\
+
+Device: 32h/50d	Inode: 1069081     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.825079029 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./stub\
+
+  Size: 7         	Blocks: 3          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069070     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.014075762 -0500\
+
+ Birth: -\
+
+
+
+  File: ./stub/nsXULStub.cpp\
+
+  Size: 11056     	Blocks: 9          IO Block: 11264  regular file\
+
+Device: 32h/50d	Inode: 1069139     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.845079180 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./stub/Makefile.in\
+
+  Size: 293       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069140     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.845079180 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./stub/xulrunner-stub.exe.manifest\
+
+  Size: 1495      	Blocks: 3          IO Block: 1536   regular file\
+
+Device: 32h/50d	Inode: 1069136     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.845079180 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.994075121 -0500\
+
+ Birth: -\
+
+
+
+  File: ./stub/moz.build\
+
+  Size: 1544      	Blocks: 3          IO Block: 2048   regular file\
+
+Device: 32h/50d	Inode: 1069137     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.845079180 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.994075121 -0500\
+
+ Birth: -\
+
+
+
+  File: ./stub/xulrunner-stub.rc\
+
+  Size: 321       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069138     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.855079258 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.994075121 -0500\
+
+ Birth: -\
+
+
+
+  File: ./locales\
+
+  Size: 3         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069069     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.014075762 -0500\
+
+ Birth: -\
+
+
+
+  File: ./locales/all-locales\
+
+  Size: 163       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069134     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.835079106 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.994075121 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config\
+
+  Size: 4         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069052     Links: 3\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs\
+
+  Size: 9         	Blocks: 3          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069053     Links: 7\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/linux32\
+
+  Size: 4         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069058     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/linux32/xulrunner\
+
+  Size: 235       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069096     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:34.345665986 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.904072234 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/linux32/xulrunner-qt\
+
+  Size: 440       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069097     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:34.345665986 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.904072234 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/linux64\
+
+  Size: 3         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069057     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/linux64/xulrunner\
+
+  Size: 233       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069098     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:34.345665986 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.904072234 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/common\
+
+  Size: 302       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069092     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/common.override\
+
+  Size: 351       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069091     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:18.115543265 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/win32\
+
+  Size: 3         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069055     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/win32/xulrunner\
+
+  Size: 472       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069094     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:34.345665986 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/win64\
+
+  Size: 3         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069054     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/win64/xulrunner\
+
+  Size: 406       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069095     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:34.345665986 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/macosx-universal\
+
+  Size: 3         	Blocks: 1          IO Block: 512    directory\
+
+Device: 32h/50d	Inode: 1069056     Links: 2\
+
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2018-08-05 03:44:35.167007406 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:14.004075443 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfigs/macosx-universal/xulrunner\
+
+  Size: 268       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069093     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:13:34.345665986 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
+  File: ./config/mozconfig\
+
+  Size: 407       	Blocks: 2          IO Block: 512    regular file\
+
+Device: 32h/50d	Inode: 1069090     Links: 1\
+
+Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
+
+Access: 2017-05-18 17:12:16.825079029 -0400\
+
+Modify: 2016-02-02 23:10:09.000000000 -0500\
+
+Change: 2017-01-06 19:35:13.894071912 -0500\
+
+ Birth: -\
+
+
+
